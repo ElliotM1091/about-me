@@ -16,5 +16,33 @@
 			<p> <ul><li> Call of duty(all of them)</li><li>battlefield</li><li>and so much more</li></p>
 		<h2>Flash is 100% Awesome!!</h2>
 		<p><img src="images/imgres.jpg" alt="flash picture"></p>
+		<table>
+			<tr>
+				<td>X</td>
+				<td>0</td>
+				<td>1</td>
+				<td>2</td>
+				<td>3</td>
+				<td>4</td>
+				<td>5</td>
+				<td>6</td>
+				<td>7</td>
+				<td>8</td>
+				<td>9</td>
+				<td>10</td>
+			</tr>
+			<tr>
+				<td>0</td>
+				<td>0</td>
+				<td>0</td>
+				<td>0</td>
+				<td>0</td>
+				<td>0</td>
+				<td>0</td>
+				<td>0</td>
+				<td>0</td>
+				<td>0</td>
+			</tr>
+		</table>
 </body>
 </html>
