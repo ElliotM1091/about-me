@@ -3,6 +3,7 @@
 	<head>
 		<meta charset="utf-8"/>
 		<title>about-me-Elliot-EE</title>
+		<link rel="styles" href="style.css" type="text/css"
 	</head>
 	<body>
 		<h1>My Name is Elliot Murrey aka <em>EE</em></h1>
