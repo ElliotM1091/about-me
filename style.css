@@ -1,4 +1,19 @@
-body {
-	background-image: url("flash.jpg");
+body{
+	color: grey;
+	font-size: 20pt;
+	text-shadow: 5px 2px 4px blue;
+	background-color: black;
 	background-size: 1900px 900px;
+}
+a:hover {
+color:green;
+}
+::selection {
+	color: deeppink;
+	background: darkgrey;
+}
+.pull-left {
+	float: left;
+	border: 5px solid pink;
+	margin: 5px;
 }
