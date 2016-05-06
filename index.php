@@ -20,13 +20,32 @@
 		<script src="//oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
 		<![endif]-->
 		<!--my customer Css-->
-		<link rel="stylesheet" type="text/css" href="style.css"/>
-		<script   src="https://code.jquery.com/jquery-2.2.3.min.js"   integrity="sha256-a23g1Nt4dtEYOj7bR+vTu7+T8VP13humZFBJNIYoEJo="   crossorigin="anonymous"></script>
+		<link rel="stylesheet" type="text/css" href="style2.css"/>
+		<script src="https://code.jquery.com/jquery-2.2.3.min.js"
+				  integrity="sha256-a23g1Nt4dtEYOj7bR+vTu7+T8VP13humZFBJNIYoEJo=" crossorigin="anonymous"></script>
 		<!-- Latest compiled and minified JavaScript -->
-		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"
+				  integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS"
+				  crossorigin="anonymous"></script>
 		<title>about-me-Elliot-EE</title>
 	</head>
 	<body>
+		</div>
+		<div class="container"
+		d
+		<div class="row">
+			<div class="col-xs-4">
+				<p> 12/12 on all screen sizes</p>
+			</div>
+			<div class="col-xs-4">
+				<p> 12/12 on all screen sizes</p>
+			</div>
+			</div>
+		</div>
+
+	</body>
+
+	<!--<body>
 		info recieved from mozillla developer network <a href="https://developer.mozilla.org">MDN</a>
 		<h1>My Name is Elliot Murrey aka <em>EE</em></h1>
 		<p><img class="pull-left" src="images/IMAG0907.jpg" alt="pictur of me" width="200" height="280"></p>
@@ -134,5 +153,5 @@
 
 			</tr>
 		</table>
-	</body>
+	</body>-->
 </html>
